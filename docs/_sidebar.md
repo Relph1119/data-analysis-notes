@@ -15,3 +15,5 @@
         * [第13章 分析报告](essential-skills-in-data-analysis/ch13.md)
         * [第14章 数据职场](essential-skills-in-data-analysis/ch14.md)
     * [高质量的标签体系搭建](high-quality-label-system/content.md)
+    * 数据指标体系梳理方法
+        * [第1章 快速理解数据指标](data-indicator-system-created-methods/ch01.md)
