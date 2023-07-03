@@ -14,3 +14,4 @@
         * [第12章 实战案例](essential-skills-in-data-analysis/ch12.md)
         * [第13章 分析报告](essential-skills-in-data-analysis/ch13.md)
         * [第14章 数据职场](essential-skills-in-data-analysis/ch14.md)
+    * [高质量的标签体系搭建](high-quality-label-system/content.md)
