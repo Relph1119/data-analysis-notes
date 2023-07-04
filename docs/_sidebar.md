@@ -1,5 +1,11 @@
 * [目录](README.md)
-    * 数据分析必知必会
+    * [高质量的标签体系搭建](high-quality-label-system/content.md)
+    * 数据指标体系梳理方法
+        * [第1章 快速理解数据指标](data-indicator-system-created-methods/ch01.md)
+        * [第2章 从0开始，梳理数据指标体系](data-indicator-system-created-methods/ch02.md)
+        * [第3章 交易型的数据指标体系](data-indicator-system-created-methods/ch03.md)
+        * [第4章 非交易型数据指标体系](data-indicator-system-created-methods/ch04.md)
+    * [数据分析必知必会](essential-skills-in-data-analysis/content.md)
         * [第1章 数据赋能](essential-skills-in-data-analysis/ch01.md)
         * [第2章 数据指标](essential-skills-in-data-analysis/ch02.md)
         * [第3章 用户运营](essential-skills-in-data-analysis/ch03.md)
@@ -14,6 +20,4 @@
         * [第12章 实战案例](essential-skills-in-data-analysis/ch12.md)
         * [第13章 分析报告](essential-skills-in-data-analysis/ch13.md)
         * [第14章 数据职场](essential-skills-in-data-analysis/ch14.md)
-    * [高质量的标签体系搭建](high-quality-label-system/content.md)
-    * 数据指标体系梳理方法
-        * [第1章 快速理解数据指标](data-indicator-system-created-methods/ch01.md)
+    

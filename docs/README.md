@@ -1,8 +1,13 @@
-<h1>数据分析笔记</h1>
+# 数据分析笔记 {docsify-ignore-all}
 
 ## 在线阅读地址
 
 https://relph1119.github.io/data-analysis-notes/#/
+
+## 学习路线
+
+1. 高质量的标签体系搭建
+2. 数据指标体系梳理方法
 
 ## 项目结构
 <pre>
