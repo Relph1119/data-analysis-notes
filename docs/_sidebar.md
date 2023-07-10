@@ -13,6 +13,7 @@
         * [第5章 九大方法的运用](nine-methods-of-data-analysis/ch05.md)
     * 数据报表与看板设计
         * [第1章 数据报表的作用与意义](data-reports-design/ch01.md)
+        * [第2章 如何打造高质量报表](data-reports-design/ch02.md)
     * [数据分析必知必会](essential-skills-in-data-analysis/content.md)
         * [第1章 数据赋能](essential-skills-in-data-analysis/ch01.md)
     
