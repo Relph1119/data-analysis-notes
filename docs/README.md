@@ -14,6 +14,7 @@ https://relph1119.github.io/data-analysis-notes/#/
 ## 项目结构
 <pre>
 docs-----------------------------------------------学习笔记
+    +---data-analysis-train-of-thought------------------数据分析思维
     +---data-indicator-system-created-methods-----------数据指标体系梳理方法
     +---data-reports-design-----------------------------数据报表与看板设计
     +---essential-skills-in-data-analysis---------------数据分析必知必会

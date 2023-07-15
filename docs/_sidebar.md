@@ -14,6 +14,8 @@
     * 数据报表与看板设计
         * [第1章 数据报表的作用与意义](data-reports-design/ch01.md)
         * [第2章 如何打造高质量报表](data-reports-design/ch02.md)
+    * 数据分析思维
+        * [第1章 认识数据分析问题](data-analysis-train-of-thought/ch01.md)
     * [数据分析必知必会](essential-skills-in-data-analysis/content.md)
         * [第1章 数据赋能](essential-skills-in-data-analysis/ch01.md)
     
