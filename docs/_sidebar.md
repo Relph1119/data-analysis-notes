@@ -17,6 +17,7 @@
     * 数据分析思路
         * [第1章 认识数据分析问题](data-analysis-train-of-thought/ch01.md)
         * [第2章 由浅入深构建分析思路](data-analysis-train-of-thought/ch02.md)
+        * [第3章 认识业务决策问题](data-analysis-train-of-thought/ch03.md)
     * [数据分析必知必会](essential-skills-in-data-analysis/content.md)
         * [第1章 数据赋能](essential-skills-in-data-analysis/ch01.md)
     
